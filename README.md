@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @krunalgangotrilti
+- 👋 Hi, I’m Krunal [@krunalgangotrilti]
 - 🌱 I’m currently learning Java Full stack.
 - 💞️ I’m looking to collaborate on simple tips & tricks to code.
 <!--- - 📫 How to reach me ...  -->
